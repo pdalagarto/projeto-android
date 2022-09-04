@@ -44,6 +44,7 @@ nav>a {
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
     color: white;
+    width: auto;
     margin: 5px;
     padding: 7px 7px 7px 7px;
     transition-duration: 0.5s;
